@@ -1,3 +1,2 @@
 # LoginDemo
-Spring Security &amp; JWT Login Demo
- + Refresh Token
+Spring Security &amp; JWT Login Demo + Refresh Token
